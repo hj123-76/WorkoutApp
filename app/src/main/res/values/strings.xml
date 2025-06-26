@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkoutApp</string>
+    <string name="workout_starten">Workout starten</string>
+    <string name="workout_app">Workout App</string>
+    <string name="fortschritt_0_0">Fortschritt: 0/0</string>
+    <string name="uebung_abbrechen">Übung abbrechen</string>
+    <string name="workout_stoppen">Workout stoppen</string>
+</resources>
